@@ -44,7 +44,6 @@ function crear(){
         success: function(data){
             console.log(data);
             
-
         },
         data:{
     
@@ -53,9 +52,6 @@ function crear(){
         
         }
         
-
-
-
     }).done(function(){});
 }
 var btn = document.querySelector('#crear_user');
